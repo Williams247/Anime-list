@@ -1,6 +1,6 @@
-# Auth System
+# Anime list
 
-This is basically a template or a building block for my backend applications.
+A backend app for anime list
 
 ## yarn install
 
